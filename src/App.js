@@ -1,4 +1,5 @@
-import Component1 from "./Components/Component1";
+import { Component1 } from "./Components/FunctionalComponents";
+import Component2 from "./Components/ClassComponents";
 import logo from "./logo.svg";
 //import "./App.css";
 
@@ -8,6 +9,7 @@ function App() {
       <header className="App-header">
         <h1>Hellow World!</h1>
         <Component1 />
+        <Component2 />
       </header>
     </div>
   );
