@@ -1,14 +1,8 @@
 .MainComponent {
-  position: fixed;
-  left: 0;
-  top: 45%;
-  width: 100%;
-  background-color: rgb(255, 255, 255);
-  color: #000000;
   text-align: center;
-  height: 200px;
-  justify-content: center;
-  display: flex;
+  flex: 1;
+  padding: 20rem;
+  overflow-y: auto;
 }
 
 .MainComponent > h1 {
