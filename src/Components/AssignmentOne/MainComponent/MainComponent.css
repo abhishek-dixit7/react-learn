@@ -1,0 +1,16 @@
+.MainComponent {
+  position: fixed;
+  left: 0;
+  top: 45%;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+  text-align: center;
+  height: 200px;
+  justify-content: center;
+  display: flex;
+}
+
+.MainComponent > h1 {
+  font-size: 350%;
+}
