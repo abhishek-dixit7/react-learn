@@ -10,8 +10,8 @@ import List from "./Components/AssignmentTwo/List/List";
 function App() {
   return (
     <div className="App">
-      {/* <MainComponent /> */}
-      <List />
+      <MainComponent />
+      {/* <List /> */}
     </div>
   );
 }
