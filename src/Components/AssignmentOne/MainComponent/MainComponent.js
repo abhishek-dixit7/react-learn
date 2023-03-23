@@ -19,7 +19,7 @@ export default function MainComponent() {
       />
 
       <div className="MainComponent">
-        {login ? <h1>This is MainComponent</h1> : ""}
+        {login ? <h1>This is MainComponent! Hello</h1> : ""}
       </div>
 
       <Footer />
